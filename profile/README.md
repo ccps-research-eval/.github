@@ -2,12 +2,15 @@
 
 Welcome to the GitHub Org page for the CCPS Office of Research and Evaluation (ORE). Below, you can see some of the repositories maintained by our organization. *Note that not all repositories are mentioned here.*
 
-## Packages
+## Website
+- [ore_site](https://github.com/ccps-research-eval/ore_site): CCPS ORE website. Built with Quarto and hosted on GCP App Engine.
 
+## Packages
 - [ccpsr](https://github.com/ccps-research-eval/ccpsr): a collection of internal functions/tools for working with CCPS data
-- [soltools](https://github.com/ccps-research-eval): tools for working with VA Standards of Learning (SOL) extracts from Pearson. *Work in Progress!*
+- [soltools](https://github.com/ccps-research-eval/soltools): tools for working with VA Standards of Learning (SOL) extracts from Pearson. *Work in Progress!*
 - [chestergeo](https://github.com/ccps-research-eval/chestergeo): tools for working with Chesterfield County geographical data.
 - [itmetrics](https://github.com/ccps-research-eval/itmetrics): functions to calculate metrics for the Imagine Tomorrow (IT) strategic plan
+- [buildingranks](https://github.com/ccps-research-eval/buildingranks): tools for working with data from the Building Ranks survey
 
 ## Evaluations
 - [nbct](https://github.com/ccps-research-eval/nbct): a preliminary evaluation of NBCT effectiveness.
@@ -32,8 +35,9 @@ Welcome to the GitHub Org page for the CCPS Office of Research and Evaluation (O
 - [chronic_absenteeism](https://github.com/ccps-research-eval/chronic_absenteeism): developing a model to predict which secondary students are likely to be chronically absent.
 - [gifted_norming](https://github.com/ccps-research-eval/gifted_norming): developing local, school-based norms for identifying gifted students in CCPS usng the NNAT assessment
 - [ell_analysis](https://github.com/ccps-research-eval/ell_analysis): an assortment of analyses looking at ELs in CCPS, as requested by Tara Jenkins.
-- [pathways_to_tomorrow](https://github.com/ccps-research-eval/): an assortment of scripts investigating specialty centers in CCPS. *Note that this was part of the 'initial' pathways work and differs from the current Elective Pathways project.*
-- [dropout](https://github.com/ccps-research-eval/dropout): analysis scripts examining dropout patterns in CCPS
+- [pathways_to_tomorrow](https://github.com/ccps-research-eval/): an assortment of scripts investigating specialty centers in CCPS.
+- [dropout](https://github.com/ccps-research-eval/dropout): analysis scripts examining dropout patterns in CCPS.
+- [ilt_data](https://github.com/ccps-research-eval/ilt_data): miscellaneous analyses/visualizations to present at Instructional Leadership Team (ILT) meetings.
 
 ## Utilities
 - [sdbq_to_db](https://github.com/ccps-research-eval/sdbq_to_db): utilities for writing SDBQ extracts to the CCPS ORE database.
