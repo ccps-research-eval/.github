@@ -19,6 +19,7 @@ Welcome to the GitHub Org page for the CCPS Office of Research and Evaluation (O
 
 ## Reporting
 - [fall_growth_assessment_reports](https://github.com/ccps-research-eval/fall_growth_assessment_reports): tools to generate class-specific html reports using SOL Fall Growth Assessment data.
+- [winter_growth_assessment_reports](https://github.com/ccps-research-eval/winter_growth_assessment_reports): tools to generate class-specific html reports using SOL winter growth assessment data.
 - [sol_sdbq_dash](https://github.com/ccps-research-eval/sol_sdbq_dash): functions to create and deploy a dashboard with school-level SDBQ data.
 - [accreditation_analyses](https://github.com/ccps-research-eval/accreditation_analyses): backend analyses to feed into spring SOL accreditation estimator Tableau dashboard.
 - [siip](https://github.com/ccps-research-eval/siip): scripts for retrieving, processing, and presenting data used to inform SIIPs as part of the 21-22 school year.
@@ -41,6 +42,7 @@ Welcome to the GitHub Org page for the CCPS Office of Research and Evaluation (O
 
 ## Utilities
 - [sdbq_to_db](https://github.com/ccps-research-eval/sdbq_to_db): utilities for writing SDBQ extracts to the CCPS ORE database.
+- [sol_report_buddy](https://github.com/ccps-research-eval/sol_report_buddy): utilities for sharing SOL SDBQ reports with school personnel. *Work in Progress!*
 - [render_buddy](https://github.com/ccps-research-eval/render_buddy): a command-line tool for helping to render Quarto documents. *Work in Progress!*
 
 ## Misc
