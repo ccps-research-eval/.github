@@ -25,6 +25,8 @@ Welcome to the GitHub Org page for the CCPS Office of Research and Evaluation (O
 - [siip](https://github.com/ccps-research-eval/siip): scripts for retrieving, processing, and presenting data used to inform SIIPs as part of the 21-22 school year.
 
 ## Other Analyses
+- [whm](https://github.com/ccps-research-eval/whm): analysis of data for the What's Happening in Math project.
+- [vss_norm](https://github.com/ccps-research-eval/vss_norm): functions to estimate bootstrapped CCPS vertical scaled score norms on SOL growth assessments.
 - [building_ranks](https://github.com/ccps-research-eval/building_ranks): a collection of analyses using the Building Ranks survey data. Includes templates for school, level (i.e. ES/MS/HS), and division reports.
 - [sol_informal](https://github.com/ccps-research-eval/sol_informal): a miscellaneous set of scripts used to analyze SOL data. Ad-hoc and one-off SOL analyses contained herein.
 - [actively_learn](https://github.com/ccps-research-eval/actively_learn): analysis of teacher usage data from ActivelyLearn, completed during Summer 2022 by Kasey Dye (VCU intern).
