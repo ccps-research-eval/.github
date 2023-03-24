@@ -7,6 +7,7 @@ Welcome to the GitHub Org page for the CCPS Office of Research and Evaluation (O
 
 ## Packages
 - [ccpsr](https://github.com/ccps-research-eval/ccpsr): a collection of internal functions/tools for working with CCPS data
+- [datadict](https://github.com/ccps-research-eval/datadict): utilities to build data dictionaries for ORE data.
 - [soltools](https://github.com/ccps-research-eval/soltools): tools for working with VA Standards of Learning (SOL) extracts from Pearson. *Work in Progress!*
 - [chestergeo](https://github.com/ccps-research-eval/chestergeo): tools for working with Chesterfield County geographical data.
 - [itmetrics](https://github.com/ccps-research-eval/itmetrics): functions to calculate metrics for the Imagine Tomorrow (IT) strategic plan
